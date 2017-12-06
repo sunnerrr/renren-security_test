@@ -1,6 +1,8 @@
 package io.renren;
 
 import io.renren.common.utils.RedisUtils;
+import io.renren.modules.sys.dao.SysMenuDao;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,7 +21,18 @@ public class RedisTest {
         //测试redis，需要设置renren.redis.open=true
         redisUtils.set("domain", "renren.io");
         String domain = redisUtils.get("domain");
-
         System.out.println(domain);
     }
+    
+    @Autowired
+    private SysMenuDao sysMenDao;
+    
+    @Test
+    public void test1(){
+    	
+    }
+    
+    
+    
+    
 }

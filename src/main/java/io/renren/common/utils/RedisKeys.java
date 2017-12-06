@@ -3,8 +3,8 @@ package io.renren.common.utils;
 /**
  * Redis所有Keys
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2017-07-18 19:51
  */
 public class RedisKeys {

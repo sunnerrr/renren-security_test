@@ -7,8 +7,8 @@ import org.springframework.stereotype.Component;
 /**
  * Shiro权限标签
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2016年12月3日 下午11:32:47
  */
 @Component

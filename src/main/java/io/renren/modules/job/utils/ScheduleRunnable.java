@@ -10,8 +10,8 @@ import org.springframework.util.ReflectionUtils;
 /**
  * 执行定时任务
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2016年11月30日 下午12:49:33
  */
 public class ScheduleRunnable implements Runnable {

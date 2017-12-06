@@ -18,8 +18,8 @@ import org.quartz.TriggerKey;
 /**
  * 定时任务工具类
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2016年11月30日 下午12:44:59
  */
 public class ScheduleUtils {
@@ -78,6 +78,7 @@ public class ScheduleUtils {
             throw new RRException("创建定时任务失败", e);
         }
     }
+
     
     /**
      * 更新定时任务

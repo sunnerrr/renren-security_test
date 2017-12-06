@@ -18,8 +18,8 @@ import java.util.Map;
 /**
  * Shiro的配置文件
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2017/9/27 22:02
  */
 @Configuration

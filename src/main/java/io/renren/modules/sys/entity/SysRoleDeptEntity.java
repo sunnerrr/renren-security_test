@@ -6,8 +6,8 @@ import java.io.Serializable;
 /**
  * 角色与部门对应关系
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2017年6月21日 23:28:13
  */
 public class SysRoleDeptEntity implements Serializable {

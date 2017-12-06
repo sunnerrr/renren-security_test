@@ -8,8 +8,8 @@ import io.renren.common.utils.SpringContextUtils;
 
 /**
  * 文件上传Factory
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2017-03-26 10:18
  */
 public final class OSSFactory {

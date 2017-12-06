@@ -6,8 +6,8 @@ import io.renren.modules.job.entity.ScheduleJobLogEntity;
 /**
  * 定时任务日志
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2016年12月1日 下午10:30:02
  */
 public interface ScheduleJobLogDao extends BaseDao<ScheduleJobLogEntity> {

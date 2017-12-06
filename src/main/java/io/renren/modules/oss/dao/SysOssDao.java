@@ -7,8 +7,8 @@ import io.renren.modules.oss.entity.SysOssEntity;
 /**
  * 文件上传
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2017-03-25 12:13:26
  */
 public interface SysOssDao extends BaseDao<SysOssEntity> {

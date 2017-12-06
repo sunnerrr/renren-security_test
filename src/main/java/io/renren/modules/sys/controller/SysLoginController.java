@@ -29,8 +29,8 @@ import com.google.code.kaptcha.Producer;
 /**
  * 登录相关
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2016年11月10日 下午1:15:31
  */
 @Controller

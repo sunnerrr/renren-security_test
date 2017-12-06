@@ -9,8 +9,8 @@ import java.util.Map;
 /**
  * 定时任务日志
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author pan.he
+ * @email 13257499906@163.com
  * @date 2016年12月1日 下午10:34:48
  */
 public interface ScheduleJobLogService {
